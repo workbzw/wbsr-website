@@ -26,7 +26,7 @@ const MobileMenu = () => {
                                 <li><Link href="landing-02">Landing 02</Link></li>
                                 <li><Link href="landing-03">Landing 03</Link></li>
                                 <li><Link href="landing-04">Landing 04</Link></li>
-                                <li><Link href="landing-05">Landing 05</Link></li>
+                                <li><Link href="index">Landing 05</Link></li>
                                 <li className="uk-nav-header">Inner pages</li>                           
                                 <li><Link href="contact">Contact</Link></li>
                                
