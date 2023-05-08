@@ -18,7 +18,7 @@ const resources = {
     zh: {
         translation: {
             "title": "WBSR",
-            "slogan": "每个人都可以玩的音乐",
+            "slogan": "每个人都都是音乐家",
             "language": "English",
             "about": "关于",
             "roadmap": "规划",
