@@ -17,7 +17,7 @@ export default function NerkoTemplate() {
   return (    
         <div className="wrap uk-overflow-hidden">     
             <Head>
-				<title>WBSR Music Club</title>
+				<title>WBSR Music</title>
 			</Head> 
 			<HeaderFive/>
 			<HeroBannerFive/>
