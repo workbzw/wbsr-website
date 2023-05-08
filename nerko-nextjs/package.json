@@ -1,5 +1,5 @@
 {
-  "name": "nerko",
+  "name": "WBSR",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,10 +18,14 @@
     "aos": "^2.3.4",
     "babel-plugin-macros": "^3.1.0",
     "feather-icons": "^4.29.0",
+    "i18next": "^22.4.15",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.2.0",
     "jquery": "^3.6.3",
     "next": "13.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-i18next": "^11.18.6",
     "sal.js": "^0.8.5",
     "sharp": "^0.31.3",
     "swiper": "^8.4.5",

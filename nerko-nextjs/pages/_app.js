@@ -12,13 +12,12 @@ import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
 import  '../assets/css/uikit.min.css'; 
 import '../assets/css/theme/main.css';
-
+import './i18n';
+import {useTranslation} from "react-i18next";
 function MyApp({ Component, pageProps }) {
-
   const [loading, setLoading] = React.useState(false);
   const [firstRender, setFirstRender] = React.useState(false);
-
-  useEffect(() => {  
+  useEffect(() => {
 	   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
             const target = document.querySelector(this.getAttribute('href'));

@@ -12,11 +12,12 @@ import HomeFiveCollection from '../components/collection/HoemFiveCollection';
 import FaqThree from '../components/faq/FaqThree';
 import HomeFiveCta from '../components/cta/HomeFiveCta';
 import HomeTwoRoadMap from "../components/roadmap/HomeTwoRoadMap";
+
 export default function NerkoTemplate() {
   return (    
         <div className="wrap uk-overflow-hidden">     
             <Head>
-				<title>Landing 05 || Nerko Next JS Template</title>
+				<title>WBSR Music Club</title>
 			</Head> 
 			<HeaderFive/>
 			<HeroBannerFive/>
